@@ -1,7 +1,5 @@
 <html> 
-</head> 
-<body> 
-<h1> El Béisbol </h1> 
+<body>  
 <h2> Definición: </h2> 
 <p> El béisbol (del inglés baseball; de base, y ball, 'pelota'), también llamado baseball o pelota base,
  es un deporte de equipo jugado por dos equipos de nueve jugadores cada uno. </p> 
